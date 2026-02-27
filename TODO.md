@@ -1,0 +1,4 @@
+- Add Skills
+- Add Projects 
+- Add The Social Links
+- Change The Background Color
