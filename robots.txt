@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hazem-ta.github.io/portfolio/sitemap.xml
