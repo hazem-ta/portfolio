@@ -42,4 +42,4 @@ Then open the URL shown in the terminal.
 
 - [GitHub profile](https://github.com/hazem-ta)
 - [LinkedIn](https://www.linkedin.com/in/hazem-ahmed-hox/)
-- [Résumé](docs/Hazem%20Ahmed%20CV.pdf)
+- [Resume](docs/Hazem%20Ahmed%20CV.pdf)
